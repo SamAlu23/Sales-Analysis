@@ -2,7 +2,10 @@
 
 This Power BI project presents a detailed visual analysis of a synthetic retail dataset simulating sales across multiple cities in Sri Lanka. The dashboard is designed for business users to gain key insights into store performance, customer preferences, and product trends.
 
-![Dashboard Screenshot](visuals/dashboard_overview.png)
+![Dashboard Screenshot](https://github.com/SamAlu23/Sales-Analysis/blob/main/Power%20BI%20Dasboard%20-%20Sales%20Analysis.png)
+
+<img width="1366" height="768" alt="Power BI Dasboard - Sales Analysis" src="https://github.com/user-attachments/assets/5eb32c95-72ef-41e1-95d8-c11376e3d045" />
+
 
 ---
 
